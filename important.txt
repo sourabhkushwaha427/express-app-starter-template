@@ -1,0 +1,3 @@
+//to acces the swagger docs 
+
+http://localhost:5000/docs/

@@ -1,0 +1,113 @@
+1️⃣ Homepage (Blog Listing Page)
+
+Homepage me users ko yeh milega:
+
+Latest blogs list
+
+Featured blog (optional)
+
+Categories ki list
+
+Pagination (Next / Previous)
+
+2️⃣ Blog Reading Page (Post Page)
+
+Jab koi blog open kare, unko yeh dekhne mile:
+
+Blog title
+
+Blog image
+
+Publish date
+
+Category
+
+Reading time
+
+Blog content (text + images)
+
+Related posts (optional)
+
+3️⃣ Categories / Topics
+
+Users category pe click karke us category ke sab blogs dekh sakte hain.
+Example:
+
+Technology
+
+Health
+
+Travel
+
+Lifestyle
+
+4️⃣ Search Bar
+
+User koi keyword likhe → us keyword ke matching blogs dikh jaaye.
+
+5️⃣ SEO Friendly URLs
+
+Example:
+
+/blog/how-to-learn-react  
+/blog/top-10-travel-places
+
+6️⃣ Author Information (Optional)
+
+Sirf ek small section:
+
+Author name
+
+Short bio
+
+(Advanced profile ki zaroorat nahi)
+
+7️⃣ Fast & Responsive UI
+
+Mobile-friendly
+
+Tablet friendly
+
+Desktop-friendly
+
+8️⃣ About Page
+
+Blog website kis baare me hai → ek simple page.
+
+9️⃣ Contact Page (Optional)
+
+A simple form:
+
+Name
+
+Email
+
+Message
+
+Ya ek simple email link.
+
+🔟 Sidebar (Optional)
+
+Sidebar me:
+
+Popular posts
+
+Categories
+
+Recent posts
+
+1️⃣1️⃣ Admin Panel (Back-end ke liye)
+
+User ko nahi dikhai deta, sirf blog owner ke liye:
+
+Create blog
+
+Edit blog
+
+Delete blog
+
+Upload images
+
+Category manage
+
+(Ye website ke functioning ke liye essential hai)
